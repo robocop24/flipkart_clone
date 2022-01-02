@@ -8,4 +8,4 @@ Simple responsive Flipkart clone website by using pure HTML and CSS.
 https://robocop24.github.io/flipkart_clone/
 
 ## Screenshot
-<img src="/img/screenshot.png">
+<img src="/img/screenshot_2.png">
